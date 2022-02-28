@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@storybook/react": "^6.4.19",
+    "@types/storybook__react": "^5.2.1"
+  }
+}
