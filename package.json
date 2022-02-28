@@ -6,7 +6,7 @@
     "react",
     "material-ui"
   ],
-  "author": "Dev STATSF1 <antonin.girard.98@gmail.com>",
+  "author": "Dev STATSF1 <aGirard@spha.fr>",
   "homepage": "",
   "license": "ISC",
   "main": "build/index.js",
